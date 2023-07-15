@@ -1,0 +1,14 @@
+product: PowerMTA
+version: 4.5
+platform: linux-intel
+units: 0
+options: evaluation
+mac: 00163E9DD16F
+licensee: Port25 ltd
+serial: Port25 ltd-123455
+comment: PMTA v4.5 Evaluation LAK
+issued: 2015-01-01
+expires: 2095-12-30
+copyright: Port25 Solutions, Inc.  All Rights Reserved
+check: 6-NnNP1xANC6dxO5yU4cyyj/4+IDlAlk3UYF1eXafIEHkpI/YL
+       tq6yP0S06mH33mVNeeLpPQALaK26MGkYqfyUHg==
